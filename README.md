@@ -8,3 +8,5 @@ The Council Algorithm Watch Twitter bot aims to raise awareness of this issue, a
 Using a very simple Python code, the bot tweets from a text document with the name of a new council using this type of technology. You can find the code here. The bot is hosted on Heroku.
 
 In addition, the bot also retweets tweets from a selected list of users. They are people or accounts who demonstrably add to the conversation about the use of algorithms in public life. This was programmed using IFTTT.
+
+In order to run this you will need Tweepy 3.7.0
